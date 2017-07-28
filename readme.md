@@ -4,9 +4,9 @@ Authors: Pengyi Yang, Andrew Oldfield, Taiyun Kim\*, Andrian Yang\*, Jean Yee Hw
 
 \* Developer of website
 
-Contact: j.ho@victorchang.edu.au
+Contact: j.ho@victorchang.edu.au and pengyi.yang@sydney.edu.au
 
-Copyright © 2017, Victor Chang Cardiac Research Institute
+Copyright © 2017, Victor Chang Cardiac Research Institute; School of Mathematics and Statistics, University of Sydney.
 
 ## Synopsis
 PAD clustering is a web resource to identify co-localization sites of binding sites at regions proximal and distal regions to gene promoters.
@@ -26,3 +26,6 @@ PAD clustering is a web resource to identify co-localization sites of binding si
 
 ## Instruction
 [Setup](https://github.com/VCCRI/PAD/wiki/Setup)
+
+## Reference
+Yang, P., Oldfield, A., Taiyun, K., Yang, A., Yang, J., Ho, J. (2017). Integrative analysis identifies co-dependent gene expression regulation of BRG1 and CHD7 at distal regulatory sites in embryonic stem cells. Bioinformatics, 33(3), 1916-1920.
